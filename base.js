@@ -1,6 +1,7 @@
 'use strict';
 
 console.log(global);
+console.log(require);
 
 //process对象
 // node -p "process.**"

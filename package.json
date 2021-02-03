@@ -1,0 +1,28 @@
+{
+  "name": "learn-nodejs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "base.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/poilkjmn22/learn-nodejs.git"
+  },
+  "keywords": [
+    "nodejs",
+    "learning"
+  ],
+  "author": "fangqi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/poilkjmn22/learn-nodejs/issues"
+  },
+  "homepage": "https://github.com/poilkjmn22/learn-nodejs#readme",
+  "directories": {
+    "doc": ".",
+    "test": "test",
+    "example": "examples"
+  }
+}
