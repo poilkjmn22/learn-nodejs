@@ -1,33 +1,37 @@
 {
-  "name": "learn-nodejs",
-  "version": "1.0.0",
-  "description": "",
-  "main": "base.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/poilkjmn22/learn-nodejs.git"
-  },
-  "keywords": [
+	"name": "learn-nodejs",
+	"version": "1.0.0",
+	"description": "",
+	"main": "base.js",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1",
+    "eslint": "eslint ./*.js"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/poilkjmn22/learn-nodejs.git"
+	},
+	"keywords": [
     "nodejs",
     "learning"
   ],
-  "author": "fangqi",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/poilkjmn22/learn-nodejs/issues"
-  },
-  "homepage": "https://github.com/poilkjmn22/learn-nodejs#readme",
-  "directories": {
-    "doc": ".",
-    "test": "test",
-    "example": "examples"
-  },
-  "dependencies": {
-    "async": "^3.2.0",
-    "commander": "^7.0.0",
-    "lodash": "^4.17.20"
-  }
+	"author": "fangqi",
+	"license": "ISC",
+	"bugs": {
+		"url": "https://github.com/poilkjmn22/learn-nodejs/issues"
+	},
+	"homepage": "https://github.com/poilkjmn22/learn-nodejs#readme",
+	"directories": {
+		"doc": ".",
+		"test": "test",
+		"example": "examples"
+	},
+	"dependencies": {
+		"async": "^3.2.0",
+		"commander": "^7.0.0",
+		"lodash": "^4.17.20"
+	},
+	"devDependencies": {
+		"eslint": "^7.19.0"
+	}
 }

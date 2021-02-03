@@ -1,0 +1,28 @@
+{
+	"parserOptions": {
+		"ecmaVersion": 6,
+		"sourceType": "module",
+		"ecmaFeatures": {
+			"jsx": true
+		}
+	},
+	"extends": "eslint:recommended",
+	"rules": {
+		"no-undef": "error",
+		"no-unused-vars": "warn"
+	},
+	"globals": {
+		"console": "readable",
+		"Symbol": "readable",
+		"Map": "readable",
+		"Set": "readable",
+		"global": "readable",
+		"process": "readable",
+		"require": "readable",
+		"Buffer": "readable",
+		"Uint8Array": "readable",
+		"setInterval": "readable",
+		"setTimeout": "readable",
+		"clearInterval": "readable"
+	}
+}
