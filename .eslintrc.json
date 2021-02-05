@@ -23,6 +23,7 @@
 		"Uint8Array": "readable",
 		"setInterval": "readable",
 		"setTimeout": "readable",
-		"clearInterval": "readable"
+		"clearInterval": "readable",
+		"__dirname": "readable"
 	}
 }
