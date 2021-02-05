@@ -22,7 +22,7 @@
 	},
 	"homepage": "https://github.com/poilkjmn22/learn-nodejs#readme",
 	"directories": {
-		"doc": ".",
+		"doc": "docs",
 		"test": "test",
 		"example": "examples"
 	},
