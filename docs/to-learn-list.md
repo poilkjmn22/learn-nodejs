@@ -6,3 +6,4 @@
 ## 
 ## crypto
 ## Bluebird,promise
+## MongoDB/Redis, Express, AngularJS, Node
